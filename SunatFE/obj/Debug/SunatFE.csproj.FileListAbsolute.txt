@@ -1,0 +1,200 @@
+C:\Users\Administrador\Desktop\ERWIN FINAL CHILILI\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\SunatFE.dll.config
+C:\Users\Administrador\Desktop\ERWIN FINAL CHILILI\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\SunatFE.dll
+C:\Users\Administrador\Desktop\ERWIN FINAL CHILILI\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\SunatFE.pdb
+C:\Users\Administrador\Desktop\ERWIN FINAL CHILILI\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Administrador\Desktop\ERWIN FINAL CHILILI\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\DotNetZip.dll
+C:\Users\Administrador\Desktop\ERWIN FINAL CHILILI\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Desktop\ERWIN FINAL CHILILI\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\System.Net.Http.dll
+C:\Users\Administrador\Desktop\ERWIN FINAL CHILILI\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\zxing.dll
+C:\Users\Administrador\Desktop\ERWIN FINAL CHILILI\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\System.Net.Http.xml
+C:\Users\Administrador\Desktop\ERWIN FINAL CHILILI\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\Administrador\Desktop\ERWIN FINAL CHILILI\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\ERWIN FINAL CHILILI\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\obj\Debug\SunatFE.dll
+C:\Users\Administrador\Desktop\ERWIN FINAL CHILILI\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\obj\Debug\SunatFE.pdb
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ\PROYECTO CHINININ-----------------------------------------\SGE CHINININ  JOSUE PARA UNIR\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\SunatFE.dll.config
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ\PROYECTO CHINININ-----------------------------------------\SGE CHINININ  JOSUE PARA UNIR\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\SunatFE.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ\PROYECTO CHINININ-----------------------------------------\SGE CHINININ  JOSUE PARA UNIR\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\SunatFE.pdb
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ\PROYECTO CHINININ-----------------------------------------\SGE CHINININ  JOSUE PARA UNIR\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ\PROYECTO CHINININ-----------------------------------------\SGE CHINININ  JOSUE PARA UNIR\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\DotNetZip.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ\PROYECTO CHINININ-----------------------------------------\SGE CHINININ  JOSUE PARA UNIR\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\itextsharp.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ\PROYECTO CHINININ-----------------------------------------\SGE CHINININ  JOSUE PARA UNIR\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\System.Net.Http.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ\PROYECTO CHINININ-----------------------------------------\SGE CHINININ  JOSUE PARA UNIR\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\zxing.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ\PROYECTO CHINININ-----------------------------------------\SGE CHINININ  JOSUE PARA UNIR\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\System.Net.Http.xml
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ\PROYECTO CHINININ-----------------------------------------\SGE CHINININ  JOSUE PARA UNIR\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ\PROYECTO CHINININ-----------------------------------------\SGE CHINININ  JOSUE PARA UNIR\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\obj\Debug\SunatFE.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ\PROYECTO CHINININ-----------------------------------------\SGE CHINININ  JOSUE PARA UNIR\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\obj\Debug\SunatFE.pdb
+E:\Proyectos\PROYECTO CHINININ\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\SunatFE.dll.config
+E:\Proyectos\PROYECTO CHINININ\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\SunatFE.dll
+E:\Proyectos\PROYECTO CHINININ\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\SunatFE.pdb
+E:\Proyectos\PROYECTO CHINININ\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Proyectos\PROYECTO CHINININ\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\System.Net.Http.dll
+E:\Proyectos\PROYECTO CHINININ\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\zxing.dll
+E:\Proyectos\PROYECTO CHINININ\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\System.Net.Http.xml
+E:\Proyectos\PROYECTO CHINININ\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\es\System.Net.Http.resources.dll
+E:\Proyectos\PROYECTO CHINININ\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+E:\Proyectos\PROYECTO CHINININ\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\obj\Debug\SunatFE.dll
+E:\Proyectos\PROYECTO CHINININ\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\obj\Debug\SunatFE.pdb
+D:\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\SunatFE.dll.config
+D:\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\SunatFE.dll
+D:\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\SunatFE.pdb
+D:\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\DotNetZip.dll
+D:\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\itextsharp.dll
+D:\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\System.Net.Http.dll
+D:\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\zxing.dll
+D:\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\System.Net.Http.xml
+D:\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\es\System.Net.Http.resources.dll
+D:\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\obj\Debug\SunatFE.dll
+D:\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\obj\Debug\SunatFE.pdb
+C:\Users\Administrador\Desktop\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\SunatFE.dll.config
+C:\Users\Administrador\Desktop\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\SunatFE.dll
+C:\Users\Administrador\Desktop\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\SunatFE.pdb
+C:\Users\Administrador\Desktop\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Administrador\Desktop\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\DotNetZip.dll
+C:\Users\Administrador\Desktop\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Desktop\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\System.Net.Http.dll
+C:\Users\Administrador\Desktop\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\zxing.dll
+C:\Users\Administrador\Desktop\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\System.Net.Http.xml
+C:\Users\Administrador\Desktop\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\Administrador\Desktop\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\obj\Debug\SunatFE.dll
+C:\Users\Administrador\Desktop\Entrega  Chininin\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\obj\Debug\SunatFE.pdb
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA ULTIMO--UNIDO\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\SunatFE.dll.config
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA ULTIMO--UNIDO\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\SunatFE.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA ULTIMO--UNIDO\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\SunatFE.pdb
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA ULTIMO--UNIDO\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA ULTIMO--UNIDO\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\DotNetZip.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA ULTIMO--UNIDO\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\itextsharp.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA ULTIMO--UNIDO\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\System.Net.Http.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA ULTIMO--UNIDO\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\zxing.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA ULTIMO--UNIDO\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\System.Net.Http.xml
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA ULTIMO--UNIDO\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA ULTIMO--UNIDO\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA ULTIMO--UNIDO\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\obj\Debug\SunatFE.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA ULTIMO--UNIDO\SGE CHINININ FINAL JSOSA ULTIMO\SunatFE\obj\Debug\SunatFE.pdb
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA-26-06-2017\SGE CHINININ FINAL JSOSA\SunatFE\bin\Debug\SunatFE.dll.config
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA-26-06-2017\SGE CHINININ FINAL JSOSA\SunatFE\bin\Debug\SunatFE.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA-26-06-2017\SGE CHINININ FINAL JSOSA\SunatFE\bin\Debug\SunatFE.pdb
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA-26-06-2017\SGE CHINININ FINAL JSOSA\SunatFE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA-26-06-2017\SGE CHINININ FINAL JSOSA\SunatFE\bin\Debug\DotNetZip.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA-26-06-2017\SGE CHINININ FINAL JSOSA\SunatFE\bin\Debug\itextsharp.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA-26-06-2017\SGE CHINININ FINAL JSOSA\SunatFE\bin\Debug\System.Net.Http.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA-26-06-2017\SGE CHINININ FINAL JSOSA\SunatFE\bin\Debug\zxing.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA-26-06-2017\SGE CHINININ FINAL JSOSA\SunatFE\bin\Debug\System.Net.Http.xml
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA-26-06-2017\SGE CHINININ FINAL JSOSA\SunatFE\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA-26-06-2017\SGE CHINININ FINAL JSOSA\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA-26-06-2017\SGE CHINININ FINAL JSOSA\SunatFE\obj\Debug\SunatFE.dll
+C:\Users\Javier Fernandez\Desktop\SGE CHINININ FINAL JSOSA-26-06-2017\SGE CHINININ FINAL JSOSA\SunatFE\obj\Debug\SunatFE.pdb
+C:\Users\Erwin\Desktop\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\SunatFE.dll.config
+C:\Users\Erwin\Desktop\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\SunatFE.dll
+C:\Users\Erwin\Desktop\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\SunatFE.pdb
+C:\Users\Erwin\Desktop\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Erwin\Desktop\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\DotNetZip.dll
+C:\Users\Erwin\Desktop\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\itextsharp.dll
+C:\Users\Erwin\Desktop\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\zxing.dll
+C:\Users\Erwin\Desktop\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Erwin\Desktop\SGE ARTE DEL PAN MOLINO\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+C:\Users\Erwin\Desktop\SGE ARTE DEL PAN MOLINO\SunatFE\obj\Debug\SunatFE.dll
+C:\Users\Erwin\Desktop\SGE ARTE DEL PAN MOLINO\SunatFE\obj\Debug\SunatFE.pdb
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\SunatFE.dll.config
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\SunatFE.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\SunatFE.pdb
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\DotNetZip.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\itextsharp.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\System.Net.Http.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\System.Net.Http.resources.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\zxing.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\System.Net.Http.xml
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\es\System.Net.Http.resources.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO\SunatFE\obj\Debug\SunatFE.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO\SunatFE\obj\Debug\SunatFE.pdb
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\Interop.AcroPDFLib.dll
+D:\ANDRE ALVARADO\PROYECTO EL MOLINO\MOLINO JOSUE\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\SunatFE.dll.config
+D:\ANDRE ALVARADO\PROYECTO EL MOLINO\MOLINO JOSUE\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\SunatFE.dll
+D:\ANDRE ALVARADO\PROYECTO EL MOLINO\MOLINO JOSUE\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\SunatFE.pdb
+D:\ANDRE ALVARADO\PROYECTO EL MOLINO\MOLINO JOSUE\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\ANDRE ALVARADO\PROYECTO EL MOLINO\MOLINO JOSUE\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\DotNetZip.dll
+D:\ANDRE ALVARADO\PROYECTO EL MOLINO\MOLINO JOSUE\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\itextsharp.dll
+D:\ANDRE ALVARADO\PROYECTO EL MOLINO\MOLINO JOSUE\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\zxing.dll
+D:\ANDRE ALVARADO\PROYECTO EL MOLINO\MOLINO JOSUE\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\Interop.AcroPDFLib.dll
+D:\ANDRE ALVARADO\PROYECTO EL MOLINO\MOLINO JOSUE\SGE ARTE DEL PAN MOLINO\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+D:\ANDRE ALVARADO\PROYECTO EL MOLINO\MOLINO JOSUE\SGE ARTE DEL PAN MOLINO\SunatFE\obj\Debug\SunatFE.dll
+D:\ANDRE ALVARADO\PROYECTO EL MOLINO\MOLINO JOSUE\SGE ARTE DEL PAN MOLINO\SunatFE\obj\Debug\SunatFE.pdb
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\UNION EL MOLINO COMPLETO\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\SunatFE.dll.config
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\UNION EL MOLINO COMPLETO\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\SunatFE.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\UNION EL MOLINO COMPLETO\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\SunatFE.pdb
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\UNION EL MOLINO COMPLETO\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\UNION EL MOLINO COMPLETO\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\DotNetZip.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\UNION EL MOLINO COMPLETO\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\itextsharp.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\UNION EL MOLINO COMPLETO\SGE ARTE DEL PAN MOLINO\SunatFE\bin\Debug\zxing.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\UNION EL MOLINO COMPLETO\SGE ARTE DEL PAN MOLINO\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\UNION EL MOLINO COMPLETO\SGE ARTE DEL PAN MOLINO\SunatFE\obj\Debug\SunatFE.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\UNION EL MOLINO COMPLETO\SGE ARTE DEL PAN MOLINO\SunatFE\obj\Debug\SunatFE.pdb
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\bin\Debug\SunatFE.dll.config
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\bin\Debug\SunatFE.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\bin\Debug\SunatFE.pdb
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\bin\Debug\DotNetZip.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\bin\Debug\itextsharp.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\bin\Debug\zxing.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\obj\Debug\SunatFE.csproj.CoreCompileInputs.cache
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\obj\Debug\SunatFE.dll
+E:\Proyectos\PROYECTO ARTE DEL PAN MOLINO\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\obj\Debug\SunatFE.pdb
+D:\MARLON\Marlon1\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\bin\Debug\SunatFE.dll.config
+D:\MARLON\Marlon1\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\bin\Debug\SunatFE.dll
+D:\MARLON\Marlon1\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\bin\Debug\SunatFE.pdb
+D:\MARLON\Marlon1\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\MARLON\Marlon1\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\bin\Debug\DotNetZip.dll
+D:\MARLON\Marlon1\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\bin\Debug\itextsharp.dll
+D:\MARLON\Marlon1\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\bin\Debug\zxing.dll
+D:\MARLON\Marlon1\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\bin\Debug\Interop.AcroPDFLib.dll
+D:\MARLON\Marlon1\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+D:\MARLON\Marlon1\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\obj\Debug\SunatFE.dll
+D:\MARLON\Marlon1\SGE ARTE DEL PAN MOLINO JSOSA FINAL\SunatFE\obj\Debug\SunatFE.pdb
+D:\MARLON\Marlon1\JKL MOLINO\SunatFE\bin\Debug\SunatFE.dll.config
+D:\MARLON\Marlon1\JKL MOLINO\SunatFE\bin\Debug\SunatFE.dll
+D:\MARLON\Marlon1\JKL MOLINO\SunatFE\bin\Debug\SunatFE.pdb
+D:\MARLON\Marlon1\JKL MOLINO\SunatFE\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\MARLON\Marlon1\JKL MOLINO\SunatFE\bin\Debug\DotNetZip.dll
+D:\MARLON\Marlon1\JKL MOLINO\SunatFE\bin\Debug\itextsharp.dll
+D:\MARLON\Marlon1\JKL MOLINO\SunatFE\bin\Debug\zxing.dll
+D:\MARLON\Marlon1\JKL MOLINO\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+D:\MARLON\Marlon1\JKL MOLINO\SunatFE\obj\Debug\SunatFE.dll
+D:\MARLON\Marlon1\JKL MOLINO\SunatFE\obj\Debug\SunatFE.pdb
+D:\MARLON\Marlon1\JKL MOLINO\SunatFE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\USUARIO\Desktop\SGE DICALE\SunatFE\bin\Debug\SunatFE.dll.config
+C:\Users\USUARIO\Desktop\SGE DICALE\SunatFE\bin\Debug\SunatFE.dll
+C:\Users\USUARIO\Desktop\SGE DICALE\SunatFE\bin\Debug\SunatFE.pdb
+C:\Users\USUARIO\Desktop\SGE DICALE\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\SGE DICALE\SunatFE\obj\Debug\SunatFE.dll
+C:\Users\USUARIO\Desktop\SGE DICALE\SunatFE\obj\Debug\SunatFE.pdb
+C:\Users\USUARIO\Desktop\SGE DICALE\SunatFE\obj\Debug\SunatFE.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\SGE DICALE\SunatFE\obj\Debug\SunatFE.csproj.CopyComplete
+D:\Marlon\sge\Proyectos\SGE DICALE\SunatFE\bin\Debug\SunatFE.dll.config
+D:\Marlon\sge\Proyectos\SGE DICALE\SunatFE\bin\Debug\SunatFE.dll
+D:\Marlon\sge\Proyectos\SGE DICALE\SunatFE\bin\Debug\SunatFE.pdb
+D:\Marlon\sge\Proyectos\SGE DICALE\SunatFE\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Marlon\sge\Proyectos\SGE DICALE\SunatFE\obj\Debug\SunatFE.csproj.CoreCompileInputs.cache
+D:\Marlon\sge\Proyectos\SGE DICALE\SunatFE\obj\Debug\SunatFE.csproj.CopyComplete
+D:\Marlon\sge\Proyectos\SGE DICALE\SunatFE\obj\Debug\SunatFE.dll
+D:\Marlon\sge\Proyectos\SGE DICALE\SunatFE\obj\Debug\SunatFE.pdb
+D:\Marlon\sge\Proyectos\SGE DICALE\SunatFE\obj\Debug\SunatFE.csprojFakesResolveAssemblyReference.cache
+D:\Marlon\sge\Proyectos\SGE DICALE\SunatFE\obj\Debug\SunatFE.csprojResolveAssemblyReference.cache
+D:\MARLON\Marlon1\SGE DICALE\SunatFE\bin\Debug\SunatFE.dll.config
+D:\MARLON\Marlon1\SGE DICALE\SunatFE\bin\Debug\SunatFE.dll
+D:\MARLON\Marlon1\SGE DICALE\SunatFE\bin\Debug\SunatFE.pdb
+D:\MARLON\Marlon1\SGE DICALE\SunatFE\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\MARLON\Marlon1\SGE DICALE\SunatFE\obj\Debug\SunatFE.csprojFakesResolveAssemblyReference.cache
+D:\MARLON\Marlon1\SGE DICALE\SunatFE\obj\Debug\SunatFE.csproj.CoreCompileInputs.cache
+D:\MARLON\Marlon1\SGE DICALE\SunatFE\obj\Debug\SunatFE.dll
+D:\MARLON\Marlon1\SGE DICALE\SunatFE\obj\Debug\SunatFE.pdb
+D:\PROYECTOS\SGE DICALE\SunatFE\bin\Debug\SunatFE.dll.config
+D:\PROYECTOS\SGE DICALE\SunatFE\bin\Debug\SunatFE.dll
+D:\PROYECTOS\SGE DICALE\SunatFE\bin\Debug\SunatFE.pdb
+D:\PROYECTOS\SGE DICALE\SunatFE\obj\Debug\SunatFE.csprojAssemblyReference.cache
+D:\PROYECTOS\SGE DICALE\SunatFE\obj\Debug\SunatFE.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\SGE DICALE\SunatFE\obj\Debug\SunatFE.csproj.CopyComplete
+D:\PROYECTOS\SGE DICALE\SunatFE\obj\Debug\SunatFE.dll
+D:\PROYECTOS\SGE DICALE\SunatFE\obj\Debug\SunatFE.pdb

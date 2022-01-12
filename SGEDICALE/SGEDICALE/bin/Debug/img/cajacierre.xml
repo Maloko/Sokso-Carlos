@@ -1,0 +1,103 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="cierre_caja">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="codcaja" type="xs:int" minOccurs="0" />
+                <xs:element name="cobroid" type="xs:long" minOccurs="0" />
+                <xs:element name="concepto" type="xs:string" minOccurs="0" />
+                <xs:element name="monto" type="xs:decimal" minOccurs="0" />
+                <xs:element name="descripcion" type="xs:string" minOccurs="0" />
+                <xs:element name="fechacobro" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="nombre" type="xs:string" minOccurs="0" />
+                <xs:element name="comprobante" type="xs:string" minOccurs="0" />
+                <xs:element name="total" type="xs:decimal" minOccurs="0" />
+                <xs:element name="tipocobro" type="xs:string" minOccurs="0" />
+                <xs:element name="noperacion" type="xs:string" minOccurs="0" />
+                <xs:element name="observacion" type="xs:string" minOccurs="0" />
+                <xs:element name="totalefectivo" type="xs:decimal" minOccurs="0" />
+                <xs:element name="totaldeposito" type="xs:decimal" minOccurs="0" />
+                <xs:element name="totaltransferencia" type="xs:decimal" minOccurs="0" />
+                <xs:element name="totaltarjeta" type="xs:decimal" minOccurs="0" />
+                <xs:element name="totalnotacredito" type="xs:decimal" minOccurs="0" />
+                <xs:element name="razonsocial" type="xs:string" minOccurs="0" />
+                <xs:element name="nombresapellidos" type="xs:string" minOccurs="0" />
+                <xs:element name="montoapertura" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <cierre_caja>
+    <codcaja>120</codcaja>
+    <cobroid>0</cobroid>
+    <concepto>APERTURA DE CAJA</concepto>
+    <monto>0.00</monto>
+    <descripcion>CAJA</descripcion>
+    <fechacobro>2021-05-30T00:00:00-05:00</fechacobro>
+    <nombre>SD</nombre>
+    <comprobante />
+    <total>0.00</total>
+    <tipocobro />
+    <noperacion />
+    <observacion />
+    <totalefectivo>243.00</totalefectivo>
+    <totaldeposito>0.00</totaldeposito>
+    <totaltransferencia>0.00</totaltransferencia>
+    <totaltarjeta>0.00</totaltarjeta>
+    <totalnotacredito>0.00</totalnotacredito>
+    <razonsocial>ADMIN</razonsocial>
+    <nombresapellidos>ADMIN</nombresapellidos>
+    <montoapertura>0.0000</montoapertura>
+  </cierre_caja>
+  <cierre_caja>
+    <codcaja>120</codcaja>
+    <cobroid>22601</cobroid>
+    <concepto>COBRO DE VENTA</concepto>
+    <monto>101.00</monto>
+    <descripcion>VENTA INTERNA</descripcion>
+    <fechacobro>2021-06-26T00:00:00-05:00</fechacobro>
+    <nombre>BOLETA DE VENTA</nombre>
+    <comprobante>B001-00026622</comprobante>
+    <total>101.00</total>
+    <tipocobro>EFECTIVO</tipocobro>
+    <noperacion />
+    <observacion />
+    <totalefectivo>243.00</totalefectivo>
+    <totaldeposito>0.00</totaldeposito>
+    <totaltransferencia>0.00</totaltransferencia>
+    <totaltarjeta>0.00</totaltarjeta>
+    <totalnotacredito>0.00</totalnotacredito>
+    <razonsocial>ROJAS GERONIMO MARINA ESTHER</razonsocial>
+    <nombresapellidos>ADMIN</nombresapellidos>
+    <montoapertura>0.0000</montoapertura>
+  </cierre_caja>
+  <cierre_caja>
+    <codcaja>120</codcaja>
+    <cobroid>22602</cobroid>
+    <concepto>COBRO DE VENTA</concepto>
+    <monto>142.00</monto>
+    <descripcion>VENTA INTERNA</descripcion>
+    <fechacobro>2021-06-26T00:00:00-05:00</fechacobro>
+    <nombre>BOLETA DE VENTA</nombre>
+    <comprobante>B001-00026623</comprobante>
+    <total>142.00</total>
+    <tipocobro>EFECTIVO</tipocobro>
+    <noperacion />
+    <observacion />
+    <totalefectivo>243.00</totalefectivo>
+    <totaldeposito>0.00</totaldeposito>
+    <totaltransferencia>0.00</totaltransferencia>
+    <totaltarjeta>0.00</totaltarjeta>
+    <totalnotacredito>0.00</totalnotacredito>
+    <razonsocial>ANAMPA BAUTISTA ROCIO JANNET</razonsocial>
+    <nombresapellidos>ADMIN</nombresapellidos>
+    <montoapertura>0.0000</montoapertura>
+  </cierre_caja>
+</NewDataSet>

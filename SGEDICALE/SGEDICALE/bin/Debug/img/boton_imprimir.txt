@@ -1,0 +1,54 @@
+public void btnImprimir_Click(object sender, EventArgs e)
+        {
+            //Boolean rpta;
+            try
+            {
+                clsAdmRepositorio clsadmrepo = new clsAdmRepositorio();
+                List<clsRepositorio> lista_repositorio=null;
+                clsRepositorio clsrepo = new clsRepositorio();
+                int micotipo = CodDocumento;
+                DateTime mifecha = dtpFecha.Value;
+                decimal mimonto = decimal.Parse( txtPrecioVenta.Text.ToString());
+                string miserie = txtSerie.Text;
+                string midocument = txtNumero.Text;
+                string unidad_aux = "";
+                string ruta_temporal = @"\temporal\";
+                DirectoryInfo directorio = null;
+
+                unidad_aux = Application.StartupPath.ToString();
+                ruta_temporal = @"" + unidad_aux + ruta_temporal;
+                if (!Directory.Exists(ruta_temporal))
+                {
+                    directorio = Directory.CreateDirectory(ruta_temporal);
+                }
+                directorio = Directory.CreateDirectory(ruta_temporal);
+
+                clsrepo.Tipodoc = micotipo;
+                clsrepo.Fechaemision = mifecha;
+                clsrepo.Monto = mimonto;
+                clsrepo.Serie = miserie;
+                clsrepo.Correlativo = midocument;
+
+                lista_repositorio =clsadmrepo.buscar_repositorio(clsrepo);
+
+                if (lista_repositorio != null) {
+
+                    if (lista_repositorio.Count > 0) {
+
+                        ruta_temporal += lista_repositorio[0].Nombredoc+".pdf";
+                        File.WriteAllBytes(ruta_temporal, lista_repositorio[0].Pdf);
+                        Process.Start(ruta_temporal);
+                    }
+                
+                }              
+        
+               
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Se encontro el siguiente problema" + ex.Message, "Venta", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+            }
+            
+        }
